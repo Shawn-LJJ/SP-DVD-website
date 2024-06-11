@@ -1,4 +1,4 @@
-# SP DVD Store Website
+# SP DVD Database Website
 
 This project is done as my submission for the Back-End Development CA2 assignment from Singapore Polytechnic AY22/23. 
 This is a full-stack project which consists of a front-end web server to serve webpages and a back-end server to query with the database. 
@@ -8,7 +8,7 @@ This project also consists of a MySQL database where all the data are stored and
 but I can't just somehow lump a database into github, so there will be an SQL script in this directory for anyone reading this to build their own database first and then write the data. 
 Without the database, the website is merely useless, and you can only look at the home page.
 
-Note: The project is setup such that everything runs locally, including the client. Server hosting is only done on my later school project.
+Note: The project is setup such that everything runs locally, including the client. Server hosting is only done on my later school assignment.
 
 ## Screenshots
 
